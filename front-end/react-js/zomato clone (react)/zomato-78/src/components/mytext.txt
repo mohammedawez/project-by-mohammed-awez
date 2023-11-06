@@ -1,0 +1,52 @@
+ some pacakages have been installed (i dont know confirm how many and which packages have ben installed)
+
+    "axios"
+    "query-string": 
+    "react"
+    "react-router-dom"
+    "react-modal"
+
+
+
+
+
+
+
+
+
+// { this all codes to be updated }
+
+
+// Details css 
+// home css
+// filter css
+
+
+
+
+
+
+// Details.js        
+// Welcome.js     (only this code is not updated,will update soon,and i also have not changed )
+ //navbar.js  
+ //Route.js
+
+
+
+
+// in node js, (copy done).......!!!!!!!!!!!!!!!
+//  (/menu) {index.js} {controller=> menu.js} {dayabase=menu.js} copy this three in node 
+
+
+
+// details.js, details.js, home.css, details.css
+
+
+
+// key value of razorpay should be change (line 92) (Details.js)  
+
+            key: "rzp_test_8cSXjcMuG7bEOE", 
+
+
+
+// key value & key secret (rzp_test_8cSXjcMuG7bEOE) (IiGAhFGLJYDHgK65uHKyCY8d)
